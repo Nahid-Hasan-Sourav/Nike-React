@@ -1,0 +1,17 @@
+header{
+    background-color: #FFF9F4;
+}
+.navbar-brand img{
+    height: 80px;
+}
+.right-text h1 .nike{
+    display: inline-block;
+    color: orange;
+}
+
+.left-img{
+    padding: 5px 20px 40px 10px;
+}
+.right-text{
+    padding: 65px 10px 30px 10px;
+}
